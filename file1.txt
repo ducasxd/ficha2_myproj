@@ -5,3 +5,6 @@ Este e o exemplo de um ficheiro de texto file1
 
 
 Fiz um alteracao dentro do ficheiro.
+
+
+Alteracoes efetuadas no branch "NovaFeature"
