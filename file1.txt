@@ -10,3 +10,10 @@ Fiz um alteracao dentro do ficheiro.
 Alteracoes efetuadas no branch "NovaFeature"
 
 ALTERACAO NO BRANCHA NOVAFEATURE OUTRAVEZ!
+=======
+
+
+
+
+ALTERACAO NO BRANCH MASTER
+>>>>>>> master
